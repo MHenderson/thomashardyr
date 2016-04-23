@@ -13,8 +13,8 @@ The package contains:
 * `native`:  *The Return of the Native*, published in 1878
 * `mayor`:  *The Mayor of Casterbridge*, published in 1886
 * `woodlanders`:  *The Woodlanders*, published in 1887
-* `tess`:  *Tess of the D'Urbervilles*, published posthumously in 1891
-* `jude`:  *Jude the Obscure*, also published posthumously in 1895
+* `tess`:  *Tess of the D'Urbervilles*, published in 1891
+* `jude`:  *Jude the Obscure*, also published in 1895
 
 There is also a function `hardy_books()` that returns a tidy data frame of all 6 novels.
 
