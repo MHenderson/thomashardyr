@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MHenderson/thomashardyr.svg?branch=master)](https://travis-ci.org/MHenderson/thomashardyr)
+
 # thomashardyr
 
 ## An R Package for Thomas Hardy's Novels
