@@ -1,0 +1,9 @@
+Package: thomashardyr
+Title: An R Package for Thomas Hardy's Novels
+Version: 0.0.0.1
+Authors@R: person("Matthew", "Henderson", email = "matthew.henderson@mykolab.ch", role = c("aut", "cre"))
+Description: This package provides access to the full texts of 6 of Thomas Hardy's novels.
+Depends: R (>= 3.2.0)
+License: MIT
+Encoding: UTF-8
+LazyData: true
