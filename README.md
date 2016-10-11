@@ -25,10 +25,15 @@ package.
 
 ## Installation
 
-To install the package type the following:
+First install Drat https://cran.rstudio.com/web/packages/drat.
 
 ```
-library(devtools)
-install_github("mhenderson/thomashardyr")
-library(thomashardyr)
+install.packages("drat")
+```
+
+Then to install `thomashardyr` type the following:
+
+```
+drat::addRepo("MHenderson")
+install.packages("thomashardyr")
 ```
