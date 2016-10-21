@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/MHenderson/thomashardyr.svg?branch=master)](https://travis-ci.org/MHenderson/thomashardyr)
 [![DOI](https://zenodo.org/badge/56910697.svg)](https://zenodo.org/badge/latestdoi/56910697)
+[![](http://www.r-pkg.org/badges/version/thomashardyr)](http://www.r-pkg.org/pkg/thomashardyr)
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/thomashardyr)](http://www.r-pkg.org/pkg/thomashardyr)
 
 # thomashardyr
 
