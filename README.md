@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/MHenderson/thomashardyr.svg?branch=master)](https://travis-ci.org/MHenderson/thomashardyr)
+[![DOI](https://zenodo.org/badge/56910697.svg)](https://zenodo.org/badge/latestdoi/56910697)
 
 # thomashardyr
 
