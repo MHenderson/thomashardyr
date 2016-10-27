@@ -5,6 +5,8 @@
 
 # thomashardyr
 
+http://mhenderson.github.io/thomashardyr/
+
 ## An R Package for Thomas Hardy's Novels
 
 This package provides access to the full texts of 6 of Thomas Hardy's novels.
