@@ -1,7 +1,8 @@
 Package: thomashardyr
 Title: An R Package for Thomas Hardy's Novels
 Version: 0.0.1
-Author: Matthew Henderson
+Authors@R: person("Matthew", "Henderson", email = "matthew.james.henderson@gmail.com",
+                  role = c("aut", "cre"))
 Maintainer: Matthew Henderson <matthew.henderson@mykolab.ch>
 Description: This package provides access to the full texts of 6 of Thomas
     Hardy's novels.
