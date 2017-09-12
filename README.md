@@ -3,6 +3,8 @@
 [![](http://www.r-pkg.org/badges/version/thomashardyr)](http://www.r-pkg.org/pkg/thomashardyr)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/thomashardyr)](http://www.r-pkg.org/pkg/thomashardyr)
 
+![](hardy.jpg)
+
 # thomashardyr
 
 http://mhenderson.github.io/thomashardyr/
