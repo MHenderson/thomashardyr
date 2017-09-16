@@ -12,10 +12,9 @@
 native
 }
 \description{
-A dataset containing the text of Thomas Hardy's 1878 novel "The Return of 
+A dataset containing the text of Thomas Hardy's 1878 novel "The Return of
 the Native". The UTF-8 plain text was sourced from Project Gutenberg
 and is divided into elements of up to about 70 characters each.
 (Some elements are blank.)
 }
 \keyword{datasets}
-

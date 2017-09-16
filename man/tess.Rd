@@ -18,4 +18,3 @@ Project Gutenberg and is divided into elements of up to about 70 characters
 each. (Some elements are blank.)
 }
 \keyword{datasets}
-

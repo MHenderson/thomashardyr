@@ -2,7 +2,7 @@
 % Please edit documentation in R/hardy_books.R
 \name{hardy_books}
 \alias{hardy_books}
-\title{Tidy data frame of 6 of Thomas Hardy's novels}
+\title{Tidy data frame of 7 of Thomas Hardy's novels}
 \usage{
 hardy_books()
 }
@@ -10,7 +10,7 @@ hardy_books()
 A data frame with two columns: \code{text} and \code{book}
 }
 \description{
-Returns a tidy data frame of 6 of Thomas Hardy's completed, published novels with
+Returns a tidy data frame of 7 of Thomas Hardy's completed, published novels with
 two columns: \code{text}, which contains the text of the novels divided into
 elements of up to about 70 characters each, and \code{book}, which contains the titles of
 the novels as a factor in order of publication.
@@ -23,4 +23,3 @@ hardy_books() \%>\% group_by(book) \%>\%
      summarise(total_lines = n())
 
 }
-

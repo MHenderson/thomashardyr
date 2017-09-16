@@ -12,11 +12,10 @@
 jude
 }
 \description{
-A dataset containing the text of Thomas Hardy's novel "Jude the Obscure", 
+A dataset containing the text of Thomas Hardy's novel "Jude the Obscure",
 published in 1895.
 The UTF-8 plain text was sourced from Project Gutenberg
 and is divided into elements of up to about 70 characters each.
 (Some elements are blank.)
 }
 \keyword{datasets}
-

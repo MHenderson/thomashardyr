@@ -4,8 +4,8 @@
 \name{thomashardyr}
 \alias{thomashardyr}
 \alias{thomashardyr-package}
+\alias{thomashardyr-package}
 \title{Thomas Hardy's Novels}
 \description{
 This package contains the complete text of Thomas Hardy's novels.
 }
-
