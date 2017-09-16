@@ -83,4 +83,4 @@ NULL
 #'
 #' @source \url{http://www.gutenberg.org/ebooks/2662}
 #' @format A character vector with 7003 elements
-"jude"
+"greenwood"

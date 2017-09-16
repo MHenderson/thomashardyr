@@ -3,3 +3,5 @@
 ^.travis.yml$
 ^data-raw$
 ^README\.Rmd$
+^History.md$
+^docs$
