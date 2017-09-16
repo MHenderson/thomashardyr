@@ -1,6 +1,6 @@
-#' Tidy data frame of 6 of Thomas Hardy's novels
+#' Tidy data frame of 7 of Thomas Hardy's novels
 #'
-#' Returns a tidy data frame of 6 of Thomas Hardy's completed, published novels with
+#' Returns a tidy data frame of 7 of Thomas Hardy's completed, published novels with
 #' two columns: \code{text}, which contains the text of the novels divided into
 #' elements of up to about 70 characters each, and \code{book}, which contains the titles of
 #' the novels as a factor in order of publication.
@@ -45,6 +45,10 @@ hardy_books <- function(){
     dplyr::data_frame(
       text = jude,
       book = "Jude the Obscure"
+    ),
+    dplyr::data_frame(
+      text = greenwood,
+      book = "Under the Greenwood Tree"
     )
   ) %>%
   dplyr::mutate(book = factor(book, levels = unique(book)))
