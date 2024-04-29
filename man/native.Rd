@@ -4,7 +4,9 @@
 \name{native}
 \alias{native}
 \title{The text of Thomas Hardy's novel "The Return of the Native"}
-\format{A character vector with 15021 elements}
+\format{
+A character vector with 15021 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/122}
 }

@@ -4,7 +4,9 @@
 \name{tess}
 \alias{tess}
 \title{The text of Thomas Hardy's novel "Tess of the D'Urbervilles"}
-\format{A character vector with 16091 elements}
+\format{
+A character vector with 16091 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/110}
 }

@@ -4,7 +4,9 @@
 \name{greenwood}
 \alias{greenwood}
 \title{The text of Thomas Hardy's novel "Under the Greenwood Tree"}
-\format{A character vector with 7003 elements}
+\format{
+A character vector with 7003 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/2662}
 }

@@ -4,7 +4,9 @@
 \name{maddingcrowd}
 \alias{maddingcrowd}
 \title{The text of Thomas Hardy's novel "Far from the Madding Crowd"}
-\format{A character vector with 16293 elements}
+\format{
+A character vector with 16293 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/27}
 }
