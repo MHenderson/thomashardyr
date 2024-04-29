@@ -5,3 +5,6 @@
 ^README\.Rmd$
 ^History.md$
 ^docs$
+^thomashardyr\.Rcheck$
+^thomashardyr.*\.tar\.gz$
+^thomashardyr.*\.tgz$

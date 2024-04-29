@@ -4,7 +4,9 @@
 \name{woodlanders}
 \alias{woodlanders}
 \title{The text of Thomas Hardy's novel "The Woodlanders"}
-\format{A character vector with 14095 elements}
+\format{
+A character vector with 14095 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/482}
 }

@@ -4,8 +4,19 @@
 \name{thomashardyr}
 \alias{thomashardyr}
 \alias{thomashardyr-package}
-\alias{thomashardyr-package}
 \title{Thomas Hardy's Novels}
 \description{
 This package contains the complete text of Thomas Hardy's novels.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/MHenderson/thomashardyr}
+  \item Report bugs at \url{https://github.com/MHenderson/thomashardyr/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Matthew Henderson \email{matthew.james.henderson@gmail.com}
+
 }

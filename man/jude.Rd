@@ -4,7 +4,9 @@
 \name{jude}
 \alias{jude}
 \title{The text of Thomas Hardy's novel "Jude the Obscure"}
-\format{A character vector with 15848 elements}
+\format{
+A character vector with 15848 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/153}
 }

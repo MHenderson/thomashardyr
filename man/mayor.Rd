@@ -4,7 +4,9 @@
 \name{mayor}
 \alias{mayor}
 \title{The text of Thomas Hardy's novel "The Mayor of Casterbridge"}
-\format{A character vector with 12464 elements}
+\format{
+A character vector with 12464 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/143}
 }
